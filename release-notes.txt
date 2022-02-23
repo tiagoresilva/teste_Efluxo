@@ -1,0 +1,6 @@
+- O projeto conta com uma database em SQL;
+- 90% do que foi pedido foi concluído, sendo que o restante não houve tempo hábil para conclusão;
+- O último painel é o mais demordo, porque requer algumas funções mais elaboradas;
+- Existe algumas correções a se fazer em relação aos dados apresentados e ao layout nas tabelas; 
+- Deve-se ter uma instância SQL - DESKTOP-BMEGNLU\TESTE_EFLUXOSSQL;
+- Segue nesta pasta o script contendo a construção da database em SQL.

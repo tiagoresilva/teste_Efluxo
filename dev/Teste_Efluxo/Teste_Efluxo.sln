@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Efluxo", "Teste_Efluxo.csproj", "{B094E7EF-9715-466E-9A2F-3C9775EA0537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B094E7EF-9715-466E-9A2F-3C9775EA0537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B094E7EF-9715-466E-9A2F-3C9775EA0537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B094E7EF-9715-466E-9A2F-3C9775EA0537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B094E7EF-9715-466E-9A2F-3C9775EA0537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3276D1-75C4-4393-9CAD-728075F86708}
+	EndGlobalSection
+EndGlobal
